@@ -1,4 +1,4 @@
-# Time Deries in Python
+# Time Series in Python
 
 ## Overview
 
