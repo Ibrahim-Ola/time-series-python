@@ -1,5 +1,5 @@
 # Time Series Analysis
 
-## Overview!
+## Overview
 
 A project on time series in python.
