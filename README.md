@@ -4,4 +4,3 @@
 
 A project on time series in python.
 
-## Content
