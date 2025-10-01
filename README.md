@@ -2,5 +2,5 @@
 
 ## Overview
 
-A project on time series in python!
+A project on time series using statisticsl models and deep learning!
 
